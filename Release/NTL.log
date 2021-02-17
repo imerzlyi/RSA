@@ -1,0 +1,117 @@
+﻿  BasicThreadPool.cpp
+  ctools.cpp
+  FacVec.cpp
+  FFT.cpp
+  fileio.cpp
+C:\univer\WinNTL-11_4_3\WinNTL-11_4_3\src\fileio.cpp(59,4): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\univer\WinNTL-11_4_3\WinNTL-11_4_3\src\fileio.cpp(118,4): warning C4244: инициализация: преобразование "time_t" в "unsigned long", возможна потеря данных
+  GetPID.cpp
+  GetTime.cpp
+  GF2.cpp
+  GF2E.cpp
+  GF2EX.cpp
+  GF2EXFactoring.cpp
+  GF2X.cpp
+C:\univer\WinNTL-11_4_3\WinNTL-11_4_3\src\GF2X.cpp(566,1): warning C4146: применение унарного минуса к типу без знака; результат оставлен без знака
+C:\univer\WinNTL-11_4_3\WinNTL-11_4_3\src\GF2X.cpp(585,1): warning C4146: применение унарного минуса к типу без знака; результат оставлен без знака
+C:\univer\WinNTL-11_4_3\WinNTL-11_4_3\src\GF2X.cpp(615,1): warning C4146: применение унарного минуса к типу без знака; результат оставлен без знака
+C:\univer\WinNTL-11_4_3\WinNTL-11_4_3\src\GF2X.cpp(643,1): warning C4146: применение унарного минуса к типу без знака; результат оставлен без знака
+C:\univer\WinNTL-11_4_3\WinNTL-11_4_3\src\GF2X.cpp(691,1): warning C4146: применение унарного минуса к типу без знака; результат оставлен без знака
+  GF2X1.cpp
+  GF2XFactoring.cpp
+  GF2XVec.cpp
+  G_LLL_FP.cpp
+  G_LLL_QP.cpp
+  G_LLL_RR.cpp
+  G_LLL_XD.cpp
+  HNF.cpp
+  Создание кода...
+  Компиляция...
+  lip.cpp
+C:\univer\WinNTL-11_4_3\WinNTL-11_4_3\src\lip.cpp(111,29): warning C4146: применение унарного минуса к типу без знака; результат оставлен без знака
+C:\univer\WinNTL-11_4_3\WinNTL-11_4_3\src\lip.cpp(538,17): warning C4146: применение унарного минуса к типу без знака; результат оставлен без знака
+C:\univer\WinNTL-11_4_3\WinNTL-11_4_3\src\lip.cpp(1751,28): warning C4146: применение унарного минуса к типу без знака; результат оставлен без знака
+C:\univer\WinNTL-11_4_3\WinNTL-11_4_3\src\lip.cpp(2227,20): warning C4146: применение унарного минуса к типу без знака; результат оставлен без знака
+C:\univer\WinNTL-11_4_3\WinNTL-11_4_3\src\lip.cpp(2915,29): warning C4101: alias: неиспользованная локальная переменная
+C:\univer\WinNTL-11_4_3\WinNTL-11_4_3\src\lip.cpp(3117,19): warning C4101: alias: неиспользованная локальная переменная
+C:\univer\WinNTL-11_4_3\WinNTL-11_4_3\src\lip.cpp(5462,18): warning C4146: применение унарного минуса к типу без знака; результат оставлен без знака
+C:\univer\WinNTL-11_4_3\WinNTL-11_4_3\src\lip.cpp(8337,40): warning C4146: применение унарного минуса к типу без знака; результат оставлен без знака
+  LLL.cpp
+  LLL_FP.cpp
+  LLL_QP.cpp
+  LLL_RR.cpp
+  LLL_XD.cpp
+  lzz_p.cpp
+  lzz_pE.cpp
+  lzz_pEX.cpp
+  lzz_pEXFactoring.cpp
+  lzz_pX.cpp
+  lzz_pX1.cpp
+  lzz_pXCharPoly.cpp
+  lzz_pXFactoring.cpp
+  MatPrime.cpp
+C:\univer\WinNTL-11_4_3\WinNTL-11_4_3\src\MatPrime.cpp(162,18): warning C4101: w: неиспользованная локальная переменная
+  mat_GF2.cpp
+  mat_GF2E.cpp
+  mat_lzz_p.cpp
+  mat_lzz_pE.cpp
+  mat_poly_lzz_p.cpp
+  Создание кода...
+  Компиляция...
+  mat_poly_ZZ.cpp
+  mat_poly_ZZ_p.cpp
+  mat_RR.cpp
+  mat_ZZ.cpp
+  mat_ZZ_p.cpp
+  mat_ZZ_pE.cpp
+  pd_FFT.cpp
+  quad_float.cpp
+  quad_float1.cpp
+C:\univer\WinNTL-11_4_3\WinNTL-11_4_3\src\quad_float1.cpp(78,31): warning C4146: применение унарного минуса к типу без знака; результат оставлен без знака
+  RR.cpp
+  thread.cpp
+  tools.cpp
+  vec_GF2.cpp
+  vec_GF2E.cpp
+  vec_lzz_p.cpp
+C:\univer\WinNTL-11_4_3\WinNTL-11_4_3\src\vec_lzz_p.cpp(10,9): warning C4101: i: неиспользованная локальная переменная
+C:\univer\WinNTL-11_4_3\WinNTL-11_4_3\src\vec_lzz_p.cpp(21,9): warning C4101: i: неиспользованная локальная переменная
+  vec_lzz_pE.cpp
+  vec_RR.cpp
+  vec_ZZ.cpp
+  vec_ZZ_p.cpp
+  vec_ZZ_pE.cpp
+  Создание кода...
+  Компиляция...
+  WordVector.cpp
+  xdouble.cpp
+  ZZ.cpp
+C:\univer\WinNTL-11_4_3\WinNTL-11_4_3\src\ZZ.cpp(381,33): warning C4146: применение унарного минуса к типу без знака; результат оставлен без знака
+C:\univer\WinNTL-11_4_3\WinNTL-11_4_3\src\ZZ.cpp(643,45): warning C4146: применение унарного минуса к типу без знака; результат оставлен без знака
+C:\univer\WinNTL-11_4_3\WinNTL-11_4_3\src\ZZ.cpp(647,56): warning C4146: применение унарного минуса к типу без знака; результат оставлен без знака
+C:\univer\WinNTL-11_4_3\WinNTL-11_4_3\src\ZZ.cpp(658,1): warning C4146: применение унарного минуса к типу без знака; результат оставлен без знака
+C:\univer\WinNTL-11_4_3\WinNTL-11_4_3\src\ZZ.cpp(849,33): warning C4146: применение унарного минуса к типу без знака; результат оставлен без знака
+C:\univer\WinNTL-11_4_3\WinNTL-11_4_3\src\ZZ.cpp(2806,36): warning C4244: =: преобразование "unsigned long" в "unsigned char", возможна потеря данных
+C:\univer\WinNTL-11_4_3\WinNTL-11_4_3\src\ZZ.cpp(2807,43): warning C4244: =: преобразование "unsigned long" в "unsigned char", возможна потеря данных
+C:\univer\WinNTL-11_4_3\WinNTL-11_4_3\src\ZZ.cpp(2968,45): warning C4146: применение унарного минуса к типу без знака; результат оставлен без знака
+C:\univer\WinNTL-11_4_3\WinNTL-11_4_3\src\ZZ.cpp(2972,56): warning C4146: применение унарного минуса к типу без знака; результат оставлен без знака
+C:\univer\WinNTL-11_4_3\WinNTL-11_4_3\src\ZZ.cpp(2984,1): warning C4146: применение унарного минуса к типу без знака; результат оставлен без знака
+  ZZVec.cpp
+  ZZX.cpp
+  ZZX1.cpp
+C:\univer\WinNTL-11_4_3\WinNTL-11_4_3\src\ZZX1.cpp(1656,9): warning C4101: i: неиспользованная локальная переменная
+  ZZXCharPoly.cpp
+  ZZXFactoring.cpp
+C:\univer\WinNTL-11_4_3\WinNTL-11_4_3\src\ZZXFactoring.cpp(1279,45): warning C4146: применение унарного минуса к типу без знака; результат оставлен без знака
+C:\univer\WinNTL-11_4_3\WinNTL-11_4_3\src\ZZXFactoring.cpp(1281,45): warning C4146: применение унарного минуса к типу без знака; результат оставлен без знака
+  ZZ_p.cpp
+  ZZ_pE.cpp
+  ZZ_pEX.cpp
+  ZZ_pEXFactoring.cpp
+  ZZ_pX.cpp
+C:\univer\WinNTL-11_4_3\WinNTL-11_4_3\src\ZZ_pX.cpp(2244,15): warning C4101: l: неиспользованная локальная переменная
+  ZZ_pX1.cpp
+  ZZ_pXCharPoly.cpp
+  ZZ_pXFactoring.cpp
+  Создание кода...
+  NTL.vcxproj -> C:\univer\WinNTL-11_4_3\WinNTL-11_4_3\src\Release\NTL.lib
